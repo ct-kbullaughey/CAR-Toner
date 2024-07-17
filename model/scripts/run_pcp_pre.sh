@@ -1,1 +1,1 @@
-python pre_pcp.py -i vhh.csv -o vhh_pre.csv -m ../data/checkpoint-checkpoint-22176/
+python pre_pcp.py -i vhh.csv -o vhh_pre.csv -m ../data/checkpoint-22176/
